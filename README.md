@@ -2,6 +2,8 @@ Benvinguts al Hackathon Girona! Aquí trobareu la descripció del projecte i el 
 
 [Descripció del projecte](https://dl.dropboxusercontent.com/u/8317970/Hackajobs/Hackathon%20-%20Presentaci%C3%B3%20del%20projecte%20i%20detall%20dels%20subprojectes.docx)
 
+[Descripció del projecte en PDF](https://dl.dropboxusercontent.com/u/8317970/Hackathon%20-%20Presentaci%C3%B3%20del%20projecte%20i%20detall%20dels%20subprojectes.pdf)
+
 [Script de creació de la BBDD](https://dl.dropboxusercontent.com/u/8317970/Hackajobs/hackajobs.sql)
 
 [Fitxer Workbench BBDD](https://dl.dropboxusercontent.com/u/8317970/Hackajobs/Hackajobs.mwb)
